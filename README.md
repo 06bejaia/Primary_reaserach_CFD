@@ -1,5 +1,5 @@
 # Primary_reaserach_CFD
-footer:
+Footer:
 
 Hurrisburg University
 GRAD 695-91- O-2023/Fall - Research Methodology & Writing
