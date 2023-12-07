@@ -1,4 +1,15 @@
 # Primary_reaserach_CFD
+footer:
+
+Hurrisburg University
+GRAD 695-91- O-2023/Fall - Research Methodology & Writing
+
+Name: Nacer Chalane 
+
+Supervised by : Abrar Qureshi
+
+Abstract
+
 
 Computational Fluid Dynamics (CFD) has emerged as a powerful tool for simulating and analyzing fluid flow phenomena in various engineering applications. This research aims to provide a comprehensive review of the recent advancements in CFD through an exploration of primary resources. The study focuses on key publications, research papers, and cutting-edge developments that have significantly contributed to the evolution of CFD methodologies and applications.
 
